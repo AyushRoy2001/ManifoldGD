@@ -2,7 +2,6 @@
   <img width="600" height="400" alt="intro_2" src="https://github.com/user-attachments/assets/40c73d5e-8509-4302-a84c-5699d895902c" />
 </p>
 
-
 # [CVPR 2026] ManifoldGD: Training-Free Hierarchical Manifold Guidance for Diffusion-Based Dataset Distillation
 
 <p align="center">
@@ -36,6 +35,10 @@ bash [DATASET_NAME]_[METHOD_NAME].sh
 ```
 
 To get the results for FID (fid.sh), Representativeness-Diversity (rep_div.sh), KL divergence (dataset.sh) please run the appropriate bash files and edit the paths.
+
+## Qualitative Results
+<img width="4650" height="265" alt="qualitative" src="https://github.com/user-attachments/assets/c41c5e6c-e01e-4234-87dc-e2ff60d41e22" />
+<img width="4650" height="1926" alt="per_step" src="https://github.com/user-attachments/assets/6aac68af-0ae4-43d4-b836-032196aaf1f9" />
 
 ## Acknowledgements
 We borrow code from MVFA (https://arxiv.org/pdf/2403.12570) and thank the authors for making the code public.
