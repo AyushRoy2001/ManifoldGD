@@ -1,6 +1,7 @@
 <p align="center">
-  <img width="600" height="400" alt="intro_2" src="https://github.com/user-attachments/assets/6b711007-2996-427b-a69b-bd16eca058fe" />
+  <img width="600" height="400" alt="intro_2" src="https://github.com/user-attachments/assets/40c73d5e-8509-4302-a84c-5699d895902c" />
 </p>
+
 
 # [CVPR 2026] ManifoldGD: Training-Free Hierarchical Manifold Guidance for Diffusion-Based Dataset Distillation
 
