@@ -45,5 +45,10 @@ We borrow code from MVFA (https://arxiv.org/pdf/2403.12570) and thank the author
 
 # Citation
 ```bibtex
-
+@article{roy2026manifoldgd,
+  title={ManifoldGD: Training-Free Hierarchical Manifold Guidance for Diffusion-Based Dataset Distillation},
+  author={Roy, Ayush and Lee, Wei-Yang Alex and Chakraborty, Rudrasis and Lokhande, Vishnu Suresh},
+  journal={arXiv preprint arXiv:2602.23295},
+  year={2026}
+}
 ```
